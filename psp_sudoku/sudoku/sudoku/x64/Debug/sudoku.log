@@ -1,9 +1,0 @@
-﻿  main.cpp
-e:\0_college\软工实践\第二次作业\代码\sudoku\sudoku\sudoku\main.cpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-e:\0_college\软工实践\第二次作业\代码\sudoku\sudoku\sudoku\main.cpp(20): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
-  SudoGenerator.cpp
-e:\0_college\软工实践\第二次作业\代码\sudoku\sudoku\sudoku\sudogenerator.cpp(99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  正在生成代码...
-  sudoku.vcxproj -> E:\0_College\软工实践\第二次作业\代码\sudoku\sudoku\x64\Debug\sudoku.exe
-  sudoku.vcxproj -> E:\0_College\软工实践\第二次作业\代码\sudoku\sudoku\x64\Debug\sudoku.pdb (Partial PDB)
