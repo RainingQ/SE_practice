@@ -1,3 +1,3 @@
 # SE_practice
 
-A Junior student of FZU.
+A junior student of FZU.
